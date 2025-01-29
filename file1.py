@@ -1,5 +1,5 @@
 import numpy as np
 
-import someting_scipy from file2
+from file2 import something_scipy 
 
-something_scipy()
+print(something_scipy())
